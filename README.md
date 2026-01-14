@@ -1,5 +1,4 @@
 
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Clean%20Future&fontColor=ffffff&fontSize=48&color=0:00c6ff,50:00f2fe,100:6ee7b7" />
 
 <p align="right">
@@ -15,7 +14,6 @@
   <img src="https://img.shields.io/badge/Kotlin-22d3ee?style=flat&logo=kotlin&logoColor=0b1220" />
   <img src="https://img.shields.io/badge/Java-22d3ee?style=flat&logo=openjdk&logoColor=0b1220" />
 
-  
 </p>
 </p>
 <p align="left">
@@ -74,3 +72,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=FFFFFF&color=0:00c6ff,50:00f2fe,80:34d399,100:a7f3d0"
   />
 </div>
+
+
+https://github.com/user-attachments/assets/bb917069-a11c-4aaa-ae22-84068c45ecac
+
