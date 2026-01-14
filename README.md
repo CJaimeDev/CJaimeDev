@@ -1,10 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api
-?type=waving
-&height=160
-&text=Clean%20Future
-&fontColor=ffffff
-&fontSize=48
-&color=0:00c6ff,50:00f2fe,100:6ee7b7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Clean%20Future&fontColor=ffffff&fontSize=48&color=0:00c6ff,50:00f2fe,100:6ee7b7" />
 
 <table align="center">
   <tr>
